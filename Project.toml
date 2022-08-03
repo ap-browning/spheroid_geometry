@@ -1,0 +1,23 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+FiniteDiff = "6a86dc24-6348-571c-b903-95158fe2bd41"
+FiniteDifferences = "26cc04aa-876d-5657-8c51-4c34ba976000"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
+NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
+NamedArrays = "86f7a689-2022-50b4-a561-43c23ac3c673"
+OptimPackNextGen = "080ffe24-4a27-4ab0-ad71-7b624e73ef8d"
+PolynomialRoots = "3a141323-8675-5d76-9d11-e1df1406c778"
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+[extras]
+CPUSummary = "2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9"
